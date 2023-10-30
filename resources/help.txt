@@ -1,0 +1,16 @@
+This is a Notes app.
+
+A Note is a document with some useful information.
+
+A Note has a mandatory name and optional text. In this app create a new Note, edit and save. The Note is stored in a database and is displayed in the Notes list.
+
+The Note name has 5 to 25 characters (alphabets, numbers, space and an underscore "_"). The name must be unique.
+
+Select a Note in the list and double-click to edit it and save. While a Note is being newly entered or updated, cancel by clicking the Cancel (Undo) button or by selecting another Note.
+
+
+ABOUT:
+
+This app is developed using Java SE programming language. Notes are stored in a H2 database and are accessed using EclipseLink JPA library.
+
+*
